@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.image-for-project-card {
+  height: 400px;
+  width: 100%;
+}
+.container-project-card {
+  width: 100%;
+}
+.project-link {
+  font-family: 'Roboto';
+  font-size: 22px;
+  font-weight: 600;
+  color: #2b237c;
+  text-decoration: none;
+}
+.container-card-course-title-time-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.title-course-card {
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-weight: 600;
+  color: #1e293b;
+}
+.time-icon-container {
+  display: flex;
+  align-items: center;
+}
+.time-icon {
+  font-size: 20px;
+}
+.duration-text-course {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+  font-weight: 600;
+  margin-left: 4px;
+}
+.descripption-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #1e293b;
+}
